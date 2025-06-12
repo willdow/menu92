@@ -1,5 +1,21 @@
 # Menu92
 
+## Project structure
+
+```
+   src/
+   ??? components/
+   ?   ??? Header/
+   ?   ??? SearchBar/
+   ?   ??? CategoryFilter/
+   ?   ??? FoodCard/
+   ?   ??? FavouritesList/
+   ?   ??? BottomNavigation/
+   ??? App.jsx
+   ??? App.css
+   ??? index.js
+```
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

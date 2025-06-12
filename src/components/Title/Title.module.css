@@ -1,0 +1,15 @@
+.titleContainer {
+	margin: 20px 0 30px 0;
+}
+
+.title {
+	font-size: 32px;
+	font-weight: 700;
+	line-height: 1.2;
+	color: #2c3e50;
+	margin: 0;
+}
+
+.highlight {
+	color: #e74c3c;
+}
